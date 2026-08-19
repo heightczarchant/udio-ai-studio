@@ -42,4 +42,4 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Legal
-> This project is shared as-is. All product names and logos belong to their respective owners.  
+> This project is shared as-is. All product names and logos belong to their respective owners.   
